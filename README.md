@@ -118,5 +118,10 @@ La comunicación entre objetos se realiza mediante:
 │   ├── UniversalRenderPipelineGlobalSettings.asset
 │   └── UniversalRenderPipelineGlobalSettings.asset.meta
 │
+├── INSTRUCTIONS.md                          # Instrucciones de instalación y ejecución del proyecto
 └── README.md                                # Descripción del proyecto
 ```
+
+## Instalación y ejecución
+
+Ver [INSTRUCTIONS.md](INSTRUCTIONS.md)
