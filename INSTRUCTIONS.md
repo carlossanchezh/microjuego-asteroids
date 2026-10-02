@@ -107,6 +107,6 @@ Sobrevive el mayor tiempo posible destruyendo meteoritos. Cada meteorito destrui
 
 - Al salir por un borde, la nave **reaparece por el lado opuesto**.
 
-## Como jugar online 
+## Jugar online
 
-Puedes jugar directamente en tu navegador a traves de unity play con este enlace [Microjuego Asteroids](https://play.unity.com/en/games/d6658c74-7713-4891-b66a-55724aebed54/microjuego-asteroids)
+Puedes jugar a ***Asteroids*** directamente en tu navegador a través de unity play con este enlace [Microjuego Asteroids](https://play.unity.com/en/games/d6658c74-7713-4891-b66a-55724aebed54/microjuego-asteroids)
